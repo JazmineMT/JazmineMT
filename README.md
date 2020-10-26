@@ -9,8 +9,7 @@
  Linked-in: https://www.linkedin.com/in/jazmine-mcginnis-96b290133/
  
  ## My Skills
-# Front-End   
-# Back-end
+## Front-End  / # Back-end
 
 
 ## Current Projects :construction:
