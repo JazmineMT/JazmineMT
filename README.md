@@ -1,4 +1,4 @@
- ### Hi there, I'm Jazmine 👋
+ # Hi there, I'm Jazmine 👋
 ### I'm a FullStack Developer seeking employment
 
 - 🔭 I’m currently working on portfolio pieces
@@ -11,4 +11,4 @@
  ## My Skills
 
 
-### Current Projects :construction:
+## Current Projects :construction:
