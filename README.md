@@ -1,4 +1,4 @@
- # Hi there, I'm Jazmine 👋
+   # <div align="center"> Hi there, I'm Jazmine 👋
 ### <div align="center">I'm Jazmine, a full-stack freelance developer 👨‍💻 seeking employment 🚀</div>  
   
 
@@ -71,11 +71,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazmineMT&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
+<br/>    
 
 <br/>  
 
