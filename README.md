@@ -83,5 +83,13 @@
 #### Conways's Game of Life 
 Here is the [DEPLOYED SITE](https://game-of-life2.vercel.app/) here is the explanation in the [READ ME](https://github.com/JazmineMT/Game-Of-Life) 
 
+#### Movie Search Application 
+Here is the [DEPLOYED SITE](https://movie-search-blue.vercel.app/) here is the explanation in the [READ ME](https://github.com/JazmineMT/React-Movie-App) 
+
+#### Fitness Anywhere Database 
+Here is the [READ ME](https://github.com/JazmineMT/back-end) and [API DOCS](https://documenter.getpostman.com/view/11766708/TVCY5rDn)
+
+
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
