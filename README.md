@@ -78,5 +78,9 @@
 
 <br />
 
+### Current Deployed Projects 
+
+Conways's Game of Life [READ ME] (https://github.com/JazmineMT/Game-Of-Life) [DEPLOYED SITE] (https://game-of-life2.vercel.app/)
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
