@@ -1,11 +1,11 @@
    # <div align="center"> Hi there, I'm Jazmine 👋
-### <div align="center">I'm Jazmine, a full-stack freelance developer 👨‍💻 seeking employment 🚀</div>  
+### <div align="center">I'm Jazmine, a full-stack developer 👨‍💻 seeking employment 🚀</div>  
   
 
 - 🔭 I’m currently working on  portfolio peices  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Java and Angular 
   
 
 - ⚡ Fun fact: I have a French Bulldog and a Beagle  
