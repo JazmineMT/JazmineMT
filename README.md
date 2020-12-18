@@ -80,6 +80,9 @@
 
 ## Current Deployed Projects 
 
+#### Pizza Shack
+Here is the [DEPLOYED SITE](https://pizzashack.netlify.app/) here is the explanation in the [READ ME](https://github.com/JazmineMT/PizzaShack) 
+
 #### Conways's Game of Life 
 Here is the [DEPLOYED SITE](https://game-of-life2.vercel.app/) here is the explanation in the [READ ME](https://github.com/JazmineMT/Game-Of-Life) 
 
