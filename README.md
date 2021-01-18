@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on  portfolio peices  
   
 
-- 🌱 I’m currently learning Java and Angular 
+- 🌱 I’m currently persuring a AWS Cloud Practitioner Certification
   
 
 - ⚡ Fun fact: I have a French Bulldog and a Beagle  
