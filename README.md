@@ -1,13 +1,7 @@
    # <div align="center"> Hi there, I'm Jazmine 👋
-### <div align="center">I'm Jazmine, a full-stack developer 👨‍💻 seeking employment 🚀</div>  
+### <div align="center">I work aT RevenueCat as a Developer Support Engineer/div>  
   
-
-- 🔭 I’m currently working on  portfolio peices  
   
-
-- 🌱 I’m currently persuring a AWS Cloud Practitioner Certification and learning Angular
-  
-
 - ⚡ Fun fact: I have a French Bulldog and a Beagle  
   
 
