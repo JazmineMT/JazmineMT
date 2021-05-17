@@ -1,5 +1,5 @@
    # <div align="center"> Hi there, I'm Jazmine 👋
-### <div align="center">I currently work aa RevenueCat as a Developer Support Engineer</div>  
+### <div align="center">I currently work at RevenueCat as a Developer Support Engineer</div>  
   
   
 - ⚡ Fun fact: I have a French Bulldog and a Beagle  
